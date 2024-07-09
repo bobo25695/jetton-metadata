@@ -1,0 +1,7 @@
+{
+  "name": "TONON",
+  "symbol": "TNN",
+  "description": "This is a sample Jetton.",
+  "image": "https://example.com/icon.png",
+  "decimals": 9
+}
